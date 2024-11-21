@@ -62,7 +62,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "NizmTokenzx" echo -e "${GREEN}AKSES BERHASIL${NC}}"
+  if [ "$USER_TOKEN" = "NizmTokenn" echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke Lanhost${NC}"
     echo -e "${YELLOW}TELEGRAM : @Lanoffc1${NC}"
